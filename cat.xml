@@ -1,21 +1,8 @@
 <rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="2.0">
 <channel>
 <title>Categories actualiteSupelec Com</title>
-<link>
-http://www.supelec.fr/offres/gestion/actus_428-1/rss.html
-</link>
-<description/>
-<copyright>Copyright all-in-web 2015</copyright>
-<language>fr</language>
-<pubdate>Fri, 26 Jun 2015 15:05:08 +0100</pubdate>
 <item>
 <title>Toutes (13)</title>
-<description>Toutes (13)</description>
-<link>
-http://www.supelec.fr/offres/gestion/actus_428-1.html
-</link>
-<pubDate/>
-<category/>
 </item>
 </channel>
 </rss>
