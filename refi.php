@@ -1,3 +1,3 @@
 <?php
-readfile("index.php");
+readfile("lang.php");
 ?>
