@@ -1,4 +1,19 @@
-#requireResource("confluence.web.resources:breadcrumbs")
-test
-</content>
+First example:
+#foreach( $foo in [1..5] )
+$foo
+#end
+
+Second example:
+#foreach( $bar in [2..-2] )
+$bar
+#end
+
+Third example:
+#set( $arr = [0..1] )
+#foreach( $i in $arr )
+$i
+#end
+
+Fourth example:
+[1..3]
  
